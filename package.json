@@ -1,0 +1,25 @@
+{
+  "name": "test-command",
+  "version": "1.0.0",
+  "description": "test git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitali-workspace/Git-Conflict-Test.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Vitali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitali-workspace/Git-Conflict-Test/issues"
+  },
+  "homepage": "https://github.com/Vitali-workspace/Git-Conflict-Test#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
